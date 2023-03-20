@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ethereal-mind-380812",
+  "private_key_id": "add532722ec392167d349fa0d7bd7d07d7381303",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCnVnsoPQLVsW9g\n9YahBwwjf7LHQOd77yPwiEvankN37C/+0dYtrGkNX2QSwI2I8BtSbdwKim0G8xAi\n6EZMp+Lb/xSha+KL6FStADxWUgI9dK0X9ODfvNu/8fB+Q/bceQbCTcqmwQ5JaWxl\nHU7UeIqd3zZ4ABVzZly7Gj3zE+97XKdDFgqxqfD/s4Qo6cJWcp14eDh3Xmy7LdDp\n9G41O1D6jqLknKHPNK93oI2q//hnUZOS+9doL9vcI3srYLfWKPXcRtFlCjqh8S4Y\nDclMIyanYYo0xrBzOrSu8gRWfbv6t2b/xn0F8Kj/aZOJJej+GIxip4sQCOdWM3CW\ngfNYQge5AgMBAAECgf8DWMD9JCULjOzh05KP9dGoLT1DsFKv8omNR7dxqZ/IrG7b\nLWl38SzTOGm5rmAVbwOEbMqc2Ki2vVUzLdvfq/yE3/9Al0SK17R425ag1hQZp1/I\nss8anbD1clRwM67A3ZuVb1AtJ4CmRKzeZSnK5pgbHVhXU0w8osM7gr4Bu2oxWRjR\no7kIt7EIKjrJUuToPZPpS+GAptzsFvpKzBvDlZdtwcJeEJIOt/dgU/hQ+UlOLaAO\npJTNsQX8bGBB8riyHi5gaBe2R0m/koKN6RCSHn9iyZB1a3qCylf9fN1lzlvpXpfX\n2UPg4ZBWRx31zSD5UpQD1Xr76z23ovwQyCWJE4ECgYEA4KCFD9FNTWDYKeKzdFjp\n8kW0MII3mvPhOW6mqx3R17QpoUwjo3Q7t1xzLq6+L1gyjR+Rv2tMc+zmUPq1SdGx\nbUbnqh6Drqj6g6cTtcR5TFwIwtkoo8K8SR7CGOSV/CX6C/UrsX9/x3gYS+CB81Di\nAdh3rhxiWKr2Yeq3S/RgXEECgYEAvrWZwAQR6q0TLUX3yKaFd7mg0Nx2wf+D1hEJ\niUBBAUdalWnQ8k4ervEnVXE8EiPQK9Er9CVDYehFkWHFncxfly9pHqeucwl5kjEZ\npKHiQ/FLvXGjjkGnVl7jmdqFgA6datATkFCt38qWNewB4vDLAANBkedo0YhmdtOP\nFpK/LXkCgYEApiBxaGpeJm0KUaf1GoYrt18vzXRw1Wuq1YPtRb6PFF2NMFqUPO3Y\nwFpiYVMhGvi6oj6H1y7u4wmAqMFSVF7+Pphi+yEIOKOGatmlLRg6sWubmydp8/sw\nr09NM4XTGyGnFTLkdqiaAxbhuTQ4R5A5Ji5HDQC3B2ahQ3eIymbY4UECgYBZr0VS\ny5cxaZsvG0xfjBAQMbezATrIGMWDEhgN962aUFgFE/IzQRGk67u3rry1OypWsNOe\nyTda/8RXjkdE4ivCCYXB6NFdQANwAK8ygP7LPNqFiL+F0tJDB/S5Ec7eXgEhjiDl\nKUvbhoYFbaulcd/FbcKUPuNIRoEJOIx97R0C4QKBgQCUnnepGJOOgWJyNTATB0Lb\nBeGwREx8IyJJWabimjhiN1R1qMXJtyX59WK8hySdCdkfKqRlvXeVFiMnN0xgQ5qi\no8/MDJA+1NttIkO2T60M3cz6jcvUltrO+Od31C03s6NPUFsqUYQUVu2pKWXFWVk/\nfAHzP3mEvtayRMVizRdiTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chennel-service@ethereal-mind-380812.iam.gserviceaccount.com",
+  "client_id": "114705403863895370534",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chennel-service%40ethereal-mind-380812.iam.gserviceaccount.com"
+}
