@@ -1,0 +1,32 @@
+#DATABASE
+services:
+  postgres_db:
+    image: postgres:14
+    container_name: 'postgres_db'
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    restart: always
+    ports:
+      - "5432:5432"
+    networks:
+      - custom
+
+  #APP
+  app:
+    container_name: 'channel_service'
+    image: channel_service
+    build:
+      context: .
+      dockerfile: Dockerfile
+    networks:
+      - custom
+    depends_on:
+      - postgres_db
+    env_file:
+      - .env
+
+networks:
+  custom:
+    driver: bridge
